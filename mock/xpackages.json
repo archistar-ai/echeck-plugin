@@ -1,0 +1,56 @@
+[
+    {
+      "fileName": "ECheck.Plugin.2.2.6.rhi",
+      "version": "2.2.6",
+      "latest": true,
+      "releaseDate": "2024-02-20T15:29:42+11:00",
+      "sizeBytes": 68809869,
+      "bucketName": "compliance-assets.archistar.io",
+      "packageObjectKey": "echeck/plugin-releases/ECheck.Plugin.2.2.6.rhi"
+    },
+    {
+      "fileName": "ECheck.Plugin.2.2.5.rhi",
+      "version": "2.2.5",
+      "latest": false,
+      "releaseDate": "2024-02-16T16:15:15+11:00",
+      "sizeBytes": 68792531,
+      "bucketName": "compliance-assets.archistar.io",
+      "packageObjectKey": "echeck/plugin-releases/ECheck.Plugin.2.2.5.rhi"
+    },
+    {
+      "fileName": "ECheck.Plugin.2.2.4.rhi",
+      "version": "2.2.4",
+      "latest": false,
+      "releaseDate": "2024-01-26T22:10:00+11:00",
+      "sizeBytes": 68792531,
+      "bucketName": "compliance-assets.archistar.io",
+      "packageObjectKey": "echeck/plugin-releases/ECheck.Plugin.2.2.4.rhi"
+    },
+    {
+      "fileName": "ECheck.Plugin.2.2.3.rhi",
+      "version": "2.2.3",
+      "latest": false,
+      "releaseDate": "2023-12-18T18:18:00+11:00",
+      "sizeBytes": 68792531,
+      "bucketName": "compliance-assets.archistar.io",
+      "packageObjectKey": "echeck/plugin-releases/ECheck.Plugin.2.2.3.rhi"
+    },
+    {
+      "fileName": "ECheck.Plugin.2.2.2.rhi",
+      "version": "2.2.2",
+      "latest": false,
+      "releaseDate": "2023-11-30T12:15:00+11:00",
+      "sizeBytes": 68792531,
+      "bucketName": "compliance-assets.archistar.io",
+      "packageObjectKey": "echeck/plugin-releases/ECheck.Plugin.2.2.2.rhi"
+    },
+    {
+      "fileName": "ECheck.Plugin.2.2.1.rhi",
+      "version": "2.2.1",
+      "latest": false,
+      "releaseDate": "2023-10-21T06:06:00+11:00",
+      "sizeBytes": 68792531,
+      "bucketName": "compliance-assets.archistar.io",
+      "packageObjectKey": "echeck/plugin-releases/ECheck.Plugin.2.2.1.rhi"
+    }
+  ]
